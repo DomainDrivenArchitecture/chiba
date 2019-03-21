@@ -3,7 +3,7 @@
   :url "http://palletops.com"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
-  :dependencies [[razum2um/bultitude "0.3.0"]]
+  :dependencies [[razum2um/bultitude "0.3.1"]]
   :exclusions [org.clojure/clojure]
   :deploy-repositories [["snapshots" :clojars]
                         ["releases" :clojars]]
