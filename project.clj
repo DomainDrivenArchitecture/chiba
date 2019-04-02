@@ -1,4 +1,4 @@
-(defproject dda/chiba "0.2.3"
+(defproject dda/chiba "0.2.4-SNAPSHOT"
   :description "A library for plugins based on namespace discovery"
   :url "http://palletops.com"
   :license {:name "Eclipse Public License"
